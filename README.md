@@ -2,6 +2,6 @@
 Chrome extension to hide annoying / useless (for me) Facebook buttons.
 
 #### Usage
-Set chrome to developer mode and add the extension
+Set chrome to developer mode and add the extension (load unpacked)
 [link](https://developer.chrome.com/extensions/faq#faq-dev-01)
 
