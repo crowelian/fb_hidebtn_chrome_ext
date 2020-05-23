@@ -1,2 +1,3 @@
-var element = document.querySelector('div#u_0_d');
+var element = document.querySelector('li.h676nmdw');
 element.parentElement.removeChild(element);
+//console.log(element.parentElement);
